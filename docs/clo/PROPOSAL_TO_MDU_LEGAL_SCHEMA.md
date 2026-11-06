@@ -153,3 +153,4 @@ We request MDU registration for the following 8 canonical datasets:
 1. Nupur to review and approve schema syntax and event model alignment.
 2. Once approved, Harsha/MDU to assign canonical schema registry hashes in MASTERDB/MDU.
 3. Zero commits have been or will be made to canonical MDU master repositories without this formal sign-off.
+

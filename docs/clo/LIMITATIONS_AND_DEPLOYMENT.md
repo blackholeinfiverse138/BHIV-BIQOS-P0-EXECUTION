@@ -46,3 +46,4 @@
 | **TSK-CLO-01** | **Formal MDU Legal Schema Review & Ingestion Sign-off** | **Nupur** (MDU Authority) | Review `docs/clo/PROPOSAL_TO_MDU_LEGAL_SCHEMA.md` and approve `dom-legal-regulatory-in` ontology. |
 | **TSK-CLO-02** | **SARATHI Independent Verification Run** | **Hemanth** (Independent Testing) | Execute independent test sweep against `tests/clo` and record attestation evidence. |
 | **TSK-CLO-03** | **BHIV Central Depository Handover** | **Ranjit** (Central Depository) | Package `feat/clo-agent-increment` commit SHA, manifest, and review packet into Central Depository register. |
+

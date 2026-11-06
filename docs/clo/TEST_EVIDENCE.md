@@ -77,3 +77,4 @@ tests/clo/test_temporal_as_of_date.py::test_api_as_of_date_intermediary_timeline
 | **SCN-18** | `test_insightflow_passive_telemetry_emission` | Verifies passive telemetry emission conforming to InsightFlow schema (`passive: true`). | `PASS` |
 | **SCN-19** | `test_registry_as_of_date_supersession_logic` | Verifies temporal logic on past dates (2018 active vs 2024 superseded). | `PASS` |
 | **SCN-20** | `test_api_as_of_date_intermediary_timeline` | Verifies end-to-end API temporal query: 1-month timeline in 2018 vs 15-day timeline in 2024. | `PASS` |
+

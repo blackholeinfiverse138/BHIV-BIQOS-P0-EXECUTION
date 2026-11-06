@@ -98,3 +98,4 @@ def test_truthstore_evidence_recording_auth(vajra: VajraTrustAdapter):
             payload={"query": "unauthorized"},
             token="INVALID_TOKEN",
         )
+

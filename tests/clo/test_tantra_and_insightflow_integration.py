@@ -93,3 +93,4 @@ def test_insightflow_passive_telemetry_emission(insightflow: InsightFlowTelemetr
     recorded = insightflow.get_emitted_events(trace_id="trace-if-001")
     assert len(recorded) == 1
     assert recorded[0].event_type == "test_audit_event"
+

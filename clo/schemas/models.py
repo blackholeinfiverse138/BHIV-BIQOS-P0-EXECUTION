@@ -168,3 +168,4 @@ class InsightFlowTelemetryEvent(BaseModel):
     payload: Dict[str, Any]
     timestamp: str
     passive: bool = True
+

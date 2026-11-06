@@ -524,3 +524,4 @@ def build_canonical_corpus() -> Dict[str, LegalDocument]:
     )
 
     return corpus
+

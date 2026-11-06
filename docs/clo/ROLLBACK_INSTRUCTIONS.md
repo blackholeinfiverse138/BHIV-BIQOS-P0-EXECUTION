@@ -59,3 +59,4 @@ If a security incident occurs or a caller key is compromised:
    `USE` $\rightarrow$ `SUSPEND` or `REVOKE`.
 2. CLO Agent fails closed immediately with `HTTP 403 Forbidden` on all incoming requests from that subject.
 3. No manual service restart is required; authority cache evaluates state transitions dynamically.
+

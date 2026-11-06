@@ -33,3 +33,4 @@
    - Any unauthenticated, revoked (`REVOKE`), or suspended (`SUSPEND`) caller is blocked with `HTTP 403 Forbidden`.
 4. **Zero Evidence Means Zero Conclusion (Rule 5)**:
    - Verified that unevidenced queries return `conclusion: null`, `evidence_status: INSUFFICIENT_EVIDENCE`, and flag `human_review_required: true`.
+

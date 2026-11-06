@@ -70,3 +70,4 @@ def test_get_individual_canonical_document(client: TestClient):
     # Test 404 for nonexistent document
     notFound = client.get("/api/v1/clo/documents/nonexistent-statute")
     assert notFound.status_code == 404
+

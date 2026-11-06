@@ -68,3 +68,4 @@ CLO signals ECC whenever an executive decision requires formal human legal couns
 - Every query routed from ECC includes an immutable `trace_id`.
 - Telemetry events are passively streamed to InsightFlow (`POST /api/v1/telemetry`) with `source: "clo-agent"` and `passive: true`.
 - Zero credentials or customer personal data are passed to ECC widgets.
+

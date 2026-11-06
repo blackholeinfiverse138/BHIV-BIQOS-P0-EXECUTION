@@ -48,3 +48,4 @@ def vajra():
 @pytest.fixture
 def insightflow():
     return insightflow_adapter
+

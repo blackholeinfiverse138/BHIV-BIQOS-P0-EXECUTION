@@ -132,3 +132,4 @@ class TantraExecutionAdapter:
                 "error": f"TANTRA execution service unavailable at {self.tantra_execution_url}: {str(e)}",
                 "isolated": True,
             }
+
